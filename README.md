@@ -10,7 +10,7 @@ Some facts about me
  - 🧑‍💻 I'm a full stack web developer
  - ⚡ An avid quizzer
  - 👾 Anime fan 
- - 🌱 Currently working FastAPI, pytest and htmx
+ - 🌱 Currently working on FastAPI,pytest
 
 <br/>
 
@@ -26,15 +26,16 @@ Some facts about me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact)
 
  ## Skills
-![Static Badge](https://img.shields.io/badge/react-logo?style=for-the-badge&logo=react&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/react-logo?style=for-the-badge&logo=react&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/redux-logo?style=for-the-badge&logo=redux&labelColor=gray&color=purple)
-![Static Badge](https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=javascript&labelColor=gray&color=yellow)
-![Static Badge](https://img.shields.io/badge/fastapi-logo?style=for-the-badge&logo=fastapi&labelColor=gray&color=teal)
-![Static Badge](https://img.shields.io/badge/tailwindcss-logo?style=for-the-badge&logo=tailwindcss&labelColor=gray&color=teal)
-![Static Badge](https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=javascript&labelColor=white&color=yellow)
+![Static Badge](https://img.shields.io/badge/fastapi-logo?style=for-the-badge&logo=fastapi&labelColor=white&color=teal)
+![Static Badge](https://img.shields.io/badge/tailwindcss-logo?style=for-the-badge&logo=tailwindcss&labelColor=white&color=teal)
+![Static Badge](https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/postgresql-logo?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=gray&color=blue)
 ![Static Badge](https://img.shields.io/badge/sqlite-logo?style=for-the-badge&logo=sqlite&labelColor=gray&color=skyblue)
-![Static Badge](https://img.shields.io/badge/mongodb-logo?style=for-the-badge&logo=mongodb&labelColor=gray&color=green)
+![Static Badge](https://img.shields.io/badge/mongodb-logo?style=for-the-badge&logo=mongodb&labelColor=gray&color=darkgreen)
+![Static Badge](https://img.shields.io/badge/svelte-logo?style=for-the-badge&logo=svelte&labelColor=white&color=orange)
 
 
 
