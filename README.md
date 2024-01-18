@@ -57,6 +57,7 @@ Some facts about me
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=saswat10&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&layout=donut-card&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
 
