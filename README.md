@@ -9,8 +9,7 @@ Some facts about me
  - 🎒 I'm a student at NIT Rourkela
  - 🧑‍💻 I'm a full stack web developer
  - ⚡ An avid quizzer
- - 👾 Anime fan 
- - 🌱 Currently working on FastAPI,pytest
+
 
 <br/>
 
