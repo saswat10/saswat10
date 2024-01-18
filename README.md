@@ -91,3 +91,8 @@ Some facts about me
 ![Static Badge](https://img.shields.io/badge/sqlite-logo?style=for-the-badge&logo=sqlite&labelColor=gray&color=skyblue)
 ![Static Badge](https://img.shields.io/badge/mongodb-logo?style=for-the-badge&logo=mongodb&labelColor=gray&color=darkgreen)
 ![Static Badge](https://img.shields.io/badge/svelte-logo?style=for-the-badge&logo=svelte&labelColor=white&color=orange)
+
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saswat10"/></a>
+</p>
