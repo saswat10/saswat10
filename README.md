@@ -41,8 +41,7 @@ Some facts about me
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=saswat10&theme=solarized-light&show_icons=true&count_private=true" alt="github-stats"/>
-  </picture>
-  <picture>
+  </picture><picture>
     <source 
       srcset="https://streak-stats.demolab.com?user=saswat10&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
@@ -55,7 +54,7 @@ Some facts about me
   </picture>
 </span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact)
+
 
 
 <p align="center">
