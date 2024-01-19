@@ -99,7 +99,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-logo?style=for-the-badge&logo=docker&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-logo?style=for-the-badge&logo=Git&color=%231a1b27">
-<img alt="Static Badge" src="https://img.shields.io/badge/Github-logo?style=for-the-badge&logo=Github&color=%230d1117">
+<img alt="Static Badge" src="https://img.shields.io/badge/Github-logo?style=for-the-badge&logo=Github&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-logo?style=for-the-badge&logo=linux&color=%231a1b27">
 
 </div>
