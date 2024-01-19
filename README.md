@@ -40,7 +40,7 @@ Some facts about me
       srcset="https://github-readme-stats.vercel.app/api?username=saswat10&theme=solarized-light&show_icons=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=saswat10&theme=solarized-light&show_icons=true&count_private=true" alt="github-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=saswat10&theme=solarized-light&show_icons=true&count_private=true" alt="github-stats" width="48%"/>
   </picture><picture>
     <source 
       srcset="https://streak-stats.demolab.com?user=saswat10&theme=tokyonight"
@@ -50,7 +50,7 @@ Some facts about me
       srcset="https://streak-stats.demolab.com?user=saswat10&theme=solarized-light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=saswat10&theme=solarized-light" alt="github-stats"/>
+    <img src="https://streak-stats.demolab.com?user=saswat10&theme=solarized-light" alt="github-stats" width="48%"/>
   </picture>
 </span>
 
