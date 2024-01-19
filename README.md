@@ -29,7 +29,7 @@ Some facts about me
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=saswat10&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="100%" alt="github-graph" />
   </picture>
 
-<p style="
+<span style="
   display: flex; gap: 10px">
   <picture>
     <source 
@@ -53,27 +53,10 @@ Some facts about me
     />
     <img src="https://streak-stats.demolab.com?user=saswat10&theme=solarized-light" alt="github-stats"/>
   </picture>
-</p>
+</span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saswat10&theme=tokyonight)](https://git.io/streak-stats)
-</div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saswat10&layout=donut-card&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=saswat10&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
-  </picture>
-</p> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saswat10&theme=tokyonight" width="99%" alt="github-trophy" />
@@ -91,8 +74,3 @@ Some facts about me
 ![Static Badge](https://img.shields.io/badge/sqlite-logo?style=for-the-badge&logo=sqlite&labelColor=gray&color=skyblue)
 ![Static Badge](https://img.shields.io/badge/mongodb-logo?style=for-the-badge&logo=mongodb&labelColor=gray&color=darkgreen)
 ![Static Badge](https://img.shields.io/badge/svelte-logo?style=for-the-badge&logo=svelte&labelColor=white&color=orange)
-
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saswat10"/></a>
-</p>
