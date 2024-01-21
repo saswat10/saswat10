@@ -1,7 +1,3 @@
-<div align="right"><img src="https://visitcount.itsvg.in/api?id=saswat10&icon=9&color=9" align="center" /></div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 ### Hi, I'm Saswat Samal, a full-stack developer 👨‍💻, learning new technologies everyday 👾🚀
@@ -31,6 +27,15 @@
 
 <br/>
 
+# 🧐 Visitors Count
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/saswat10/count.svg)
+
+</div>
+
+<br/>
+
 # 📊 Github Stats
 
 <div align="center">
@@ -49,6 +54,7 @@
 </div>
 
 <br/>
+
 
 # 🏆 Github Trophies
 
