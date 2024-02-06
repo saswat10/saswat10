@@ -94,6 +94,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-logo?style=for-the-badge&logo=sqlite&color=%23044a64">
 <img alt="Static Badge" src="https://img.shields.io/badge/mongoDB-logo?style=for-the-badge&logo=mongodb&color=%231a1b27">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&color=%231a1b27">
+<img alt="Static Badge" src="https://img.shields.io/badge/graphql-logo?style=for-the-badge&logo=graphql&color=%23db39ce">
+
 
 </div>
 
